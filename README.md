@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Pascal Pashie
 
-### 🚀 Développeur Web Full-Stack | CTO & Co-fondateur de Mscraft Agency
+### 🚀 Développeur Web
 
 Architecte de solutions digitales, je transforme les idées en applications robustes et scalables. Avec une approche orientée business et une exigence technique irréprochable, je conçois des écosystèmes numériques qui propulsent les entreprises vers l'excellence opérationnelle.
 
@@ -59,11 +59,6 @@ Architecte de solutions digitales, je transforme les idées en applications robu
 ## 📈 Métriques GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scaldev-Pashie&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scaldev-Pashie&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Scaldev-Pashie&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
 </p>
 
@@ -99,13 +94,13 @@ Je suis toujours intéressé par :
 - 🏢 Des solutions pour l'entrepreneuriat digital
 - 🎓 Le mentoring et le partage de compétences
 
----
-
-## 💭 Philosophie
-
-> *"Un développeur ne construit pas seulement des applications, il crée des solutions qui transforment des vies et des entreprises. Chaque projet est une opportunité d'innover et de repousser les limites du possible."*
 
 ---
+
+> ### 💡 *"Du code qui résout de vrais problèmes."*
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Scaldev-Pashie&label=👁️%20Visiteurs&color=58A6FF&style=flat" alt="Profile views"/>
