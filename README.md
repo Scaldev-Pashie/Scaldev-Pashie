@@ -19,32 +19,15 @@ Je travaille principalement avec **Laravel**, **Vue.js**, et les technologies mo
 ---
 
 # 🛠️ Langages & Technologies
-
-### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
-
-### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,bootstrap,vite" />
 </p>
-
-
-### Base de données
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
-### Outils
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,composer,linux" />
-</p>
-
 ---
 
 # 🚀 Mes compétences
@@ -102,12 +85,9 @@ Je travaille principalement avec **Laravel**, **Vue.js**, et les technologies mo
 ---
 
 
-
-
 # ✨ Citation
 
 > *"Le code n'est pas seulement écrit pour fonctionner, il est écrit pour durer."*
-
 
 </div>
 
