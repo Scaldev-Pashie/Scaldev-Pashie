@@ -24,9 +24,10 @@ Architecte de solutions digitales, je transforme les idées en applications robu
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inertiajs/inertiajs-original.svg" alt="Inertia.js" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original height="60"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="60" height="60"/>
