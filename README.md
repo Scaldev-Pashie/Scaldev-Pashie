@@ -1,106 +1,264 @@
-# 👋 Bonjour, je suis Pascal Pashie
+# 👋 Bonjour !
 
-### 🚀 Développeur Web
+## Je suis **Pascal Pashie** 🚀
 
-Architecte de solutions digitales, je transforme les idées en applications robustes et scalables. Avec une approche orientée business et une exigence technique irréprochable, je conçois des écosystèmes numériques qui propulsent les entreprises vers l'excellence opérationnelle.
+### 👨🏻‍💻 À propos de moi
 
----
-
-## 🎯 Vision & Expertise
-
-**Ma mission :** Créer des logiciels qui ne sont pas seulement fonctionnels, mais qui deviennent des leviers de croissance pour mes clients.
-
-### Domaines d'excellence
-- 🏗️ **Architecture SaaS** & Solutions scalables
-- 💼 **ERP** & Systèmes de gestion d'entreprise
-- 🏪 **Solutions POS** & Gestion commerciale
-- 📊 **Tableaux de bord analytiques** & Business Intelligence
-- 🔐 **Sécurité** & Gestion des accès avancée
+* 💻 Je suis **Développeur Web**
+* 🚀 Je conçois des **applications web modernes, évolutives et orientées métier**
+* 🔥 Je suis passionné par **Laravel, Vue.js et les technologies web modernes**
+* 🧠 Je m'intéresse à **l'architecture logicielle, aux API, aux bases de données**
+* 🌱 J'apprends constamment et j'améliore continuellement mes compétences
 
 ---
 
-## 🎯 Stack Technique
+## 🛠️ Mes outils et technologies préférés
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="60"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="60" alt="Sass">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"  width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+> Technologies et outils que j'utilise ou avec lesquels j'ai travaillé.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
+<table>
+<tr>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60"/>
+<td align="center" width="100">
+<a href="https://www.php.net/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+</a>
+<br>PHP
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-</p>
+<td align="center" width="100">
+<a href="https://laravel.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
+</a>
+<br>Laravel
+</td>
 
----
+<td align="center" width="100">
+<a href="https://vuejs.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
+</a>
+<br>Vue.js
+</td>
 
-## 📈 Métriques GitHub
+<td align="center" width="100">
+<a href="https://nuxt.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50" height="50" alt="Nuxt.js"/>
+</a>
+<br>Nuxt.js
+</td>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Scaldev-Pashie&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
-</p>
+<td align="center" width="100">
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+</a>
+<br>JavaScript
+</td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scaldev-Pashie&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true"/>
-</p>
+<td align="center" width="100">
+<a href="https://www.typescriptlang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+</a>
+<br>TypeScript
+</td>
 
----
+<td align="center" width="100">
+<a href="https://nodejs.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+</a>
+<br>Node.js
+</td>
 
+</tr>
 
+<tr>
 
-## 🌟 Ce qui me distingue
+<td align="center">
+<a href="https://jquery.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery"/>
+</a>
+<br>jQuery
+</td>
 
-<div align="center">
+<td align="center">
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+</a>
+<br>HTML5
+</td>
 
-| 📐 Vision architecturale | 🧪 Qualité & Tests | 📊 Performance |
-|:---:|:---:|:---:|
-| Chaque ligne de code sert une stratégie globale | Code robuste, documenté et testé | Optimisation BDD & Frontend |
+<td align="center">
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+</a>
+<br>CSS3
+</td>
 
-| 🤝 Méthodologie Agile | 🎯 Oriented Business | 📚 Veille technologique |
-|:---:|:---:|:---:|
-| Livraison itérative & collaboration | Solutions techniques au service des objectifs | Toujours à jour avec les innovations |
+<td align="center">
+<a href="https://tailwindcss.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
+</a>
+<br>Tailwind
+</td>
 
-</div>
+<td align="center">
+<a href="https://getbootstrap.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+</a>
+<br>Bootstrap
+</td>
 
----
+<td align="center">
+<a href="https://sass-lang.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" alt="Sass"/>
+</a>
+<br>Sass
+</td>
 
-## 🤝 Collaborations & Projets
+<td align="center">
+<a href="https://alpinejs.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" width="50" height="50" alt="Alpine.js"/>
+</a>
+<br>Alpine.js
+</td>
 
-Je suis toujours intéressé par :
-- 🚀 Des projets innovants à fort impact
-- 🤖 L'intelligence artificielle appliquée au web
-- 🏢 Des solutions pour l'entrepreneuriat digital
-- 🎓 Le mentoring et le partage de compétences
+</tr>
 
+<tr>
 
----
+<td align="center">
+<a href="https://inertiajs.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inertiajs/inertiajs-original.svg" width="50" height="50" alt="Inertia.js"/>
+</a>
+<br>Inertia.js
+</td>
 
-> ### 💡 *"Du code qui résout de vrais problèmes."*
+<td align="center">
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+</a>
+<br>MySQL
+</td>
 
----
+<td align="center">
+<a href="https://www.postgresql.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+</a>
+<br>PostgreSQL
+</td>
 
+<td align="center">
+<a href="https://www.mongodb.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+</a>
+<br>MongoDB
+</td>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Scaldev-Pashie&label=👁️%20Visiteurs&color=58A6FF&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Scaldev-Pashie?style=social" alt="GitHub followers"/>
-</p>
+<td align="center">
+<a href="https://www.sqlite.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/>
+</a>
+<br>SQLite
+</td>
+
+<td align="center">
+<a href="https://graphql.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" alt="GraphQL"/>
+</a>
+<br>GraphQL
+</td>
+
+<td align="center">
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+</a>
+<br>Git
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+</a>
+<br>GitHub
+</td>
+
+<td align="center">
+<a href="https://about.gitlab.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" alt="GitLab"/>
+</a>
+<br>GitLab
+</td>
+
+<td align="center">
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+</a>
+<br>Docker
+</td>
+
+<td align="center">
+<a href="https://www.postman.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"/>
+</a>
+<br>Postman
+</td>
+
+<td align="center">
+<a href="https://ubuntu.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="50" height="50" alt="Ubuntu"/>
+</a>
+<br>Ubuntu
+</td>
+
+<td align="center">
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+</a>
+<br>VS Code
+</td>
+
+<td align="center">
+<a href="https://www.figma.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+</a>
+<br>Figma
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://www.npmjs.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="NPM"/>
+</a>
+<br>NPM
+</td>
+
+<td align="center">
+<a href="https://vite.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite"/>
+</a>
+<br>Vite
+</td>
+
+<td align="center">
+<a href="https://getcomposer.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="50" height="50" alt="Composer"/>
+</a>
+<br>Composer
+</td>
+
+<td align="center">
+<a href="https://restfulapi.net/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" width="50" height="50" alt="REST API"/>
+</a>
+<br>REST API
+</td>
+
+</tr>
+
+</table>
