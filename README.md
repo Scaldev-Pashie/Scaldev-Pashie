@@ -1,6 +1,6 @@
 # 👋 Bonjour !
 
-## Je suis **Pascal Pashie** 🚀
+## Je suis **Pascal Pashie** 
 
 ### 👨🏻‍💻 À propos de moi
 
